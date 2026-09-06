@@ -1,4 +1,4 @@
-![[Pasted image 20260707081107.png]]
+![[../../Week-00-Intro-to-class/Pasted image 20260707081107.png]]
 
 
 ## Summary of all ESP32 GPIO pins 
